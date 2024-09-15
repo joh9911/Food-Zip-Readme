@@ -3,7 +3,7 @@
 ## IoT 연계형 음식물처리기 관리 및 서비스 앱
 
 <p align="center">
-  <img src="path_to_your_gif.gif" alt="Food-Zip App Demo" width="300">
+  <img src="food_zip.gif" alt="Food-Zip App Demo" width="300">
 </p>
 
 ## 프로젝트 소개 🚀
